@@ -1,4 +1,4 @@
-<h1>PHP user .ini files as database for basic projects</h1>
+<h1>PHP use .ini files as database for basic projects</h1>
 
 <h3>Installation</h3>
 
