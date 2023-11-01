@@ -65,3 +65,14 @@ $user ->FileDB()->runQuery([
 'columnName' => ['='=>'value']
 
 ])
+
+
+Add .ENV file as
+ 
+FILE_DB_CONNECTION=ini
+
+FILE_DB_HOST=app
+
+FILE_DB_PORT=/
+
+FILE_DB_DATABASE=DBex  // folder name
